@@ -1,0 +1,20 @@
+{
+  "name": "nextjs-wp-assets",
+  "version": "1.0.0",
+  "description": "A set of assets for nextjs-wp project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imranhsayed/nextjs-wp-assets.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imranhsayed/nextjs-wp-assets/issues"
+  },
+  "homepage": "https://github.com/imranhsayed/nextjs-wp-assets#readme"
+}
